@@ -1,0 +1,72 @@
+
+*{
+    background-color:rgb(226, 250, 226);
+
+}
+body{
+    border-bottom: 4px solid darkblue;
+    padding-bottom: 20px;
+}
+.sum_form{
+    text-align: center;
+    display: block;
+    color: lightskyblue;
+    padding: 50px 50px 20px 50px;
+    margin: 80px 50px 20px 50px;
+   
+}
+h1{
+    text-decoration: underline 4px solid black;
+    font-style: italic;
+    text-align: center;
+    width: 1500px;
+    
+
+}
+nav{
+    display: block;
+    position: absolute;
+    padding: 10px;
+    text-align: center;
+    top:0 ;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+#num1,#num2{
+    background-color: rgb(123, 53, 236);
+    color: lemonchiffon;
+    text-align: center;
+    font-size: medium;
+    height: 30px;
+    border: 3px solid rgb(255, 143, 91);
+    border-radius: 20px;
+
+}
+#submit{
+    text-align: center;
+    margin: 15px 140px;
+    height: 30px ;
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(145, 145, 245);
+    color: indigo;
+    border-radius: 3px;
+    border-color: rgb(12, 12, 58);
+}
+#answer{
+    background-color: lavenderblush;
+    font-size: medium;
+    font-weight: bold;
+    margin:auto;
+    width: 265px;
+    padding:10px;
+    border:2px solid indigo;
+}
+#ans{
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    height: 25px;
+    background-color:rgb(140, 255, 255);
+}
